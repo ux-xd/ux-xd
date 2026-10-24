@@ -1,16 +1,11 @@
-![EZO Labs Inc. We build worlds for agents.](assets/ezo-labs-social.png)
+![Superbot, your own AI agent.](assets/superbot-card.png)
 
-# EZO Labs Inc
+# Superbot Helper
 
-We build environments, developer tools, and infrastructure for AI agents.
+Open-source contributions and coordinated security fixes from the Superbot team.
 
-## Work
-
-- [Superbot](https://superbot.gg): your own AI agent, on desktop and phone.
-- [Security](https://ezolabs.io/security): applied security research and coordinated vulnerability disclosure.
+[Superbot](https://superbot.gg) is your own AI agent, on desktop and phone. It is built by [EZO Labs Inc](https://ezolabs.io).
 
 ## Contact
 
-[Website](https://ezolabs.io) | [contact@ezolabs.io](mailto:contact@ezolabs.io) | [security@ezolabs.io](mailto:security@ezolabs.io)
-
-[X](https://x.com/ezolabsinc) | [LinkedIn](https://www.linkedin.com/company/ezolabs)
+[Website](https://superbot.gg) | [Security](https://ezolabs.io/security) | [security@ezolabs.io](mailto:security@ezolabs.io)
