@@ -1,4 +1,4 @@
-![Superbot, your own AI agent.](assets/superbot-card.png)
+![Superbot saves you time.](assets/superbot-card.png)
 
 # Superbot Helper
 
